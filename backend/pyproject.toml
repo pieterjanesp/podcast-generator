@@ -6,9 +6,11 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "anthropic>=0.75.0",
+    "arxiv-mcp-server>=0.3.1",
     "elevenlabs>=2.26.1",
     "fastapi>=0.124.4",
     "httpx>=0.28.1",
+    "mcp>=1.24.0",
     "pydantic-settings>=2.12.0",
     "uvicorn[standard]>=0.38.0",
 ]

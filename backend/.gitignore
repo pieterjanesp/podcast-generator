@@ -9,4 +9,8 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# Generated content
 *.mp3
+papers/
+scripts/
